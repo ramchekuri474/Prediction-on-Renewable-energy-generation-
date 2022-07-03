@@ -14,7 +14,7 @@ The Main aim of this project isto Predict the Renewable(Solar,Wind) power genera
 - Forecast MW: How much energy (mw) is used.
 - We do forecast on this data; hence we must take time series from features. And region is an important concern to show usage in respective areas.
  ### Our important features are:
-- Datetime Beginning EPT/UTC, Datetime Ending EPT/UTC, Forecast Region and Forecast time,power generation/Load usage.*
+- Datetime Beginning EPT/UTC, Datetime Ending EPT/UTC, Forecast Region and Forecast time,power generation/Load usage.
 
 
  
